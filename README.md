@@ -2,7 +2,7 @@
 
 **Full Stack Engineer** · Python · Django · React · Paris, France
 
-I build web applications end-to-end — from REST APIs and database architecture to responsive React interfaces. Currently open to a **CDI in Paris**.
+I build web applications end-to-end. Currently open to a **CDI in Paris**.
 
 ---
 
@@ -29,11 +29,6 @@ I build web applications end-to-end — from REST APIs and database architecture
 
 > *Projects being added — check back soon.*
 
----
-
-## 📊 GitHub Stats
-
-![Amani's GitHub stats](https://github-readme-stats.vercel.app/api?username=AmaniMft&show_icons=true&hide_border=true&theme=default)
 
 ---
 
