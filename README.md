@@ -25,13 +25,6 @@ I build web applications end-to-end. Currently open to a **CDI in Paris**.
 
 ---
 
-## 🚀 Projects
-
-> *Projects being added — check back soon.*
-
-
----
-
 ## 📫 Contact
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000?style=flat&logo=vercel&logoColor=white)](https://amani-meftah-portfolio.vercel.app/)
