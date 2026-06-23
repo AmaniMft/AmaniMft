@@ -1,6 +1,6 @@
 # Hi, I'm Amani 👋
 
-**Full Stack Engineer** · Python · Django · React · Paris, France
+**Full Stack developer** · Python · Django · React · Paris, France
 
 I build web applications end-to-end. Currently open to a **CDI in Paris**.
 
