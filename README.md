@@ -1,27 +1,17 @@
 # Hi, I'm Amani 👋
 
-**Full Stack developer** · Python · Django · React · Paris, France
+**Full Stack Engineer** · Python · Django · React · Paris, France
 
-I build web applications end-to-end. Currently open to a **CDI in Paris**.
-
+I build web applications end-to-end.
 ---
 
 ## 🛠 Tech Stack
 
 **Frontend**
-`JavaScript` `React` `HTML/CSS` `Tailwind CSS`
+`React` `HTML/CSS` `Tailwind CSS`
 
 **Backend**
 `Python` `Django` `Java` `Spring Boot` `REST APIs` `Node.js`
-
-**Databases**
-`PostgreSQL` `MySQL` `SQLite` `MongoDB`
-
-**Tools & Infrastructure**
-`Docker` `Git` `GitHub` `AWS` `Figma` `Linux`
-
-**Methodologies**
-`Agile / SCRUM` `Jira`
 
 ---
 
